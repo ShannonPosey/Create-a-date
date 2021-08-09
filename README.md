@@ -15,7 +15,7 @@ JavaScript
 ![ demo](./assets/img/save-dates.png)
 
 ### Website
-https://electrolion.github.io/Create-a-date/
+https://shannonposey.github.io/Create-a-date/
 
 ## Author
 👤 **Arianna McCollum**
